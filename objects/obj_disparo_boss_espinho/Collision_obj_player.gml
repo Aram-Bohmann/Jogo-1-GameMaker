@@ -1,0 +1,1 @@
+global.hp -= 5 / global.armadura;

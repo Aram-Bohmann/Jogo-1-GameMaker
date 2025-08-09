@@ -1,0 +1,1 @@
+if (global.levelup = false) instance_create_layer(x, y, "tiro", obj_disparo_5);

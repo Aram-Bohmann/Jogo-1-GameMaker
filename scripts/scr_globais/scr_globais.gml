@@ -1,0 +1,1 @@
+global.carta_atual = noone;

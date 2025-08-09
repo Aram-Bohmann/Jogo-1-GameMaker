@@ -1,0 +1,1 @@
+global.dano += global.hp_max / 6;

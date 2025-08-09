@@ -1,0 +1,1 @@
+instance_create_layer(225, 570, "Instances", obj_inimigo_desmonetiza);
