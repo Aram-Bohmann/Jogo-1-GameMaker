@@ -1,4 +1,4 @@
-# Jogo-1-GameMaker
+# Jogo-Parodia-Seraphs-Last-Stand
 ### Descrição
 Este repositório armazena os códigos do jogo criado no GameMaker utilizando a linguagem GML. Este jogo é uma paródia do jogo Seraph's Last Stand, com elementos visuais do canal do youtube "Andrezidos".
 
